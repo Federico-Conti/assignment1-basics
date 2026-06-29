@@ -161,3 +161,8 @@ cython_debug/
 
 .ruff_cache/
 *.zip
+
+/data
+my-test/out
+prompt.txt
+trainBPE.txt
